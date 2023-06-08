@@ -1,2 +1,2 @@
 # Training-tasks-Python
-Here are some tasks I've done for trainig
+Here are some tasks I've done for trainig in Python
