@@ -1,2 +1,2 @@
 # Training-tasks-Python
-Здесь собраны различные тренировочные задачки по Python, которые я когда-либо решала
+Here are some tasks I've done for trainig
